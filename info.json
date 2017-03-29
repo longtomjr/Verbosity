@@ -3,6 +3,7 @@
     "version": "0.0.1",
     "title": "Verbosity",
     "author": "Herman Ewert, Longtomjr",
-    "homepage": "none",
-    "description": "Factorio Mod focused on providing more verbosity to Factorio and Factorio mods."
+    "homepage": "",
+    "description": "Factorio Mod focused on providing more verbosity to Factorio and Factorio mods.",
+    "dependencies": ["base"]
 }
