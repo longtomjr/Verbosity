@@ -1,6 +1,7 @@
 {
     "name": "verbosity",
     "version": "0.0.1",
+    "factorio_version": "0.14",
     "title": "Verbosity",
     "author": "Herman Ewert, Longtomjr",
     "homepage": "",
