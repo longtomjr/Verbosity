@@ -41,3 +41,6 @@ luac.out
 
 # Build Folder
 .build
+
+#luacheck config
+.luacheckrc
