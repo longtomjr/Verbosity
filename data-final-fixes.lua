@@ -1,7 +1,13 @@
 
 -- Table with every fluid icon that is available and should be changed
 local fluid_sprite_list = {
-  'water'
+  'water',
+  'crude-oil',
+  'heavy-oil',
+  'light-oil',
+  'petroleum-gas',
+  'lubricant',
+  'sulfuric-acid'
 }
 
 local function has_value (tab, val)
